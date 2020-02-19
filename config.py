@@ -1,4 +1,4 @@
-TOKEN = 'NjcwNzEzMjkxNTI5NTE5MjMw.XiyYfg.aXEeOaTuOVsz0lxxMPVGhFz2P8A'
+TOKEN = '#######################'
 POST_ID = ''
 
 ROLES = {
